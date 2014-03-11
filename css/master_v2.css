@@ -1,0 +1,44 @@
+html, body {
+	margin:0px;
+	padding:0px;
+	border:0px;
+	background:#dbdbdb url(images/bck_body.jpg) repeat-x;
+}
+
+
+body,td,th {
+	font:normal 12px "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+	color: #494949;
+}
+
+p{
+	margin:0px;
+	padding:0px;
+}
+
+a{
+	color:#5798ce;
+	text-decoration:none;
+}
+
+
+input{
+	height:30px;
+	font:normal 12px "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+	color:#494949;
+-webkit-box-shadow: 0px 0px 2px 0px #5798ce;
+box-shadow: 0px 0px 2px 0px #5798ce;
+}
+
+.imprimir_logo{
+	display:none;
+}
+
+
+.Files_ayuda{
+	color:#FF0000;
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	display:none;/*
+	position:absolute;*/
+	z-index:100;
+}

@@ -1,0 +1,48 @@
+.fck_01{
+	font-size:16px;
+	font-weight:normal;
+	margin:10px 0px 0 0px;
+	padding:0 0 0px 0;
+}
+
+
+.fck_02{
+	font-size:14px;
+	font-weight:normal;
+	margin:10px 0px 0 0px;
+	padding:0 0 4px 0;
+	border-bottom:1px solid;
+	display:block;
+}
+
+
+.fck_03{
+	font-size:12px;
+	font-weight:normal;
+	margin:10px 0px 0 0px;
+	padding:0 0 10px 0;
+}
+
+
+.fck_04{
+	font-size:11px;
+	font-weight:normal;
+	line-height: 18px;
+	display:block;
+	padding:10px 20px;
+	margin:10px 0;
+	border:1px dashed;
+}
+
+
+.fck_image_01{
+	margin:0px 0px 0 0px;
+	padding:0 0 0px 0;
+	border:1px solid #72b2cd;
+}
+
+
+.conte_contenidos p{
+	margin:0px;
+	padding:0px;
+}

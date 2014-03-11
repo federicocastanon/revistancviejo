@@ -1,0 +1,93 @@
+boby{
+	font:normal 13px Georgia, "Times New Roman", Times, serif;
+	line-height:18px;
+	color: #5f8dbf;
+	width:100%;
+}
+
+#SoportPage, .sop_columns, .columns_02, .producto_foto, #slide_home02, table, #slide_free, .slide_free_sop, .slide_free_block, .slide_free_modules, .slide_free_modules img{
+	width:100%!important;
+}
+
+
+#slide_home02{
+	display:none;
+}
+
+.foto_impresion{
+	display:block;
+}
+.foto_impresion img{
+	width:100%;
+	margin-bottom:20px;
+}
+
+
+.produ_col_01{
+	width:80%;
+}
+
+.produ_col_02{
+	width:100%;
+}
+
+
+
+.sop_columns, table, td, tr, a{
+	font:normal 12px Georgia, "Times New Roman", Times, serif;
+	line-height:18px;
+	color: #333;
+}
+
+.imprimir_logo{
+	padding:0 15px 15px 15px;
+	border-bottom:1px solid #999;
+}
+
+.footer_texto{
+	padding:15px;
+	border-bottom:1px solid #999;
+}
+.footer_firma{
+	padding:15px;
+	font:normal 11px Verdana, Geneva, sans-serif;
+	color:#666;
+	letter-spacing:2px;
+}
+
+#header, .nav_menu_sop, .Files_ayuda, .columns_01, .producto_agregar, .producto_archivo, .producto_contacto, .btn_herraminetas,
+.producto_redes, .producto_relacionado, .pre_footer, .footer_memu,
+.admin_edit, .ocutar_seccion, .producto_titulo,
+.nav_cicle, .prod_borde_marco_01, .prod_borde_marco_02, .prod_borde_marco_03, .prod_borde_marco_04,
+.editoriales_archivos, .column_sec
+{
+	display:none;
+}
+
+.columns_02{
+	padding:15px;
+}
+
+.titulos_principal, .titulos_principal a{
+	font:normal 24px Georgia, "Times New Roman", Times, serif;
+	line-height:18px;
+	color: #5f8dbf;
+	margin:10px 0 20px 0;
+	text-decoration:none;
+}
+
+.editoriales_titulo{
+	font-size:24px;
+}
+
+.editoriales_bajada{
+	font-size:16px;
+}
+
+.editoriales_texto{
+	font-size:14px;
+}
+
+div{
+	border:0px;
+}

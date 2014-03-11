@@ -1,0 +1,98 @@
+/*---------------botonera principal---------------*/
+
+ul#nav_menu{margin:0px; padding:0px; list-style:none;}
+ul#nav_menu li{display:block; float:left;}
+ul#nav_menu li a {
+	text-decoration:none;
+	outline:none;
+	display:block;
+	height:25px;
+	color:#666666;
+	font: normal 14px Tahoma,Geneva,Kalimati,sans-serif;
+	padding:6px 0px 0 0px;
+	letter-spacing:0px;
+	text-transform: uppercase;
+	text-align: center;
+	width: 102px;
+	border-bottom:5px solid #3a7aaf;
+	margin-left: 10px;
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;	
+transition: all 0.2s ease-in-out;
+text-transform:uppercase;
+}
+ul#nav_menu li a:hover {
+	color:#166e9a;
+	background:#fff;
+}	
+
+.nav_menu_sep{
+	padding:13px 0 0 0;
+	color:#898989;
+	font-size:12px;
+	font-family:"museo-sans",sans-serif;
+}
+
+ul#nav_menu li .active{
+	background:#fff;
+	color:#021e36;
+}
+
+.menu_color_0 a{
+	border-bottom:5px solid #021e36!important;
+}
+.menu_color_1 a{
+	border-bottom:5px solid #3a7aaf!important;
+}
+.menu_color_2 a{
+	border-bottom:5px solid #14568d!important;
+}
+.menu_color_3 a{
+	border-bottom:5px solid #021e36!important;
+}
+.menu_color_4 a{
+	border-bottom:5px solid #3a7aaf!important;
+}
+
+
+/*---------------botonera Secundario---------------*/
+.nav_submenu_sop{
+	margin:-10px 30px 0 0;
+	padding:0 0 0 0px;
+	position:relative;
+	border-bottom:1px solid #ccc;
+}
+
+ul#nav_submenu{margin:0px; padding:0px; list-style:none;}
+ul#nav_submenu li{display:block; float:left;}
+ul#nav_submenu li a {
+	text-decoration:none;
+	outline:none;
+	display:block;
+	color:#288bbd;
+	font: normal 12px Tahoma,Geneva,Kalimati,sans-serif;
+	padding:7px 12px 7px 13px;
+	letter-spacing:1px;
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;	
+transition: all 0.2s ease-in-out;
+}
+ul#nav_submenu li a:hover {
+	color:#166e9a;
+}	
+
+.nav_submenu_sep{
+	padding:7px 0px 7px 0px;
+	color:#898989;
+	font-size:12px;
+	font-family:"museo-sans",sans-serif;
+}
+
+ul#nav_submenu li .active{
+	color:#021e36;
+}
+
